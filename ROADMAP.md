@@ -28,11 +28,11 @@ Planned → Draft → Technical/pedagogical review → Lab tested → Published 
 | Version | Scope |
 |---|---|
 | v0.1.0 | Course shell, syllabus, navigation, outlines and development placeholders |
-| v0.2.0 | Stage I core modules, laboratories and checkpoint reviewed and published |
-| v0.3.0 | Stage II core modules, laboratories and checkpoint reviewed and published |
-| v0.4.0 | Stage III core modules, laboratories and checkpoint reviewed and published |
-| v0.9.0 | Integrated capstone, assessments, accessible resources and pilot-ready course |
-| v1.0.0 | Course revised after actual learner trials, independent specialist review and workload validation |
+| v0.2.0 | **Think ABOUT Physical AI** - Develop, review and publish Modules 01–03   |
+| v0.3.0 | **Think WITH Physical AI** - Develop, review and publish Modules 04–07    |
+| v0.4.0 | **Think IN Physical AI** - Develop, review and publish Modules 08–12      |
+| v0.9.0 | **Pilot-ready Course** - Complete integrated learning laboratories, assessments, case studies and capstone. |
+| v1.0.0 | **Validated Course** - Revise following actual learner trials, specialist review and workload validation. |
 
 ## Immediate next work
 
