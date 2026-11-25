@@ -47,8 +47,17 @@ flowchart TD
 | 12 | [Evolutionary Thinking](course/03-think-in-physical-ai/12-evolutionary-thinking/README.md) | How do intelligent machines improve, scale and participate in larger systems? | Planned |
 
 ## Who is it for?
+This course is built first for people who have to decide whether, where, and how an intelligent physical system should work in the real world, and who will be accountable for that decision.
 
-Product builders, AI and software professionals, engineers, designers, founders, operators, students, researchers, business and policy leaders, and people interested in working with intelligent physical systems. No advanced mathematics, coding or robot hardware is required for the planned core pathway. Optional technical extensions are proposed for learners who want greater depth.
+Primary (Deciders): Product builders, founders, and operators who must choose what work to automate, what to deploy, under which conditions, with what evidence, and with whose responsibility.
+
+Collaborators ( Builders alongside deciders): Engineers, designers, and AI and software professionals who design, build, evaluate, or operate intelligent physical systems and need a shared language for tradeoffs across body, intelligence, environment, people, workflow, service, and economics.
+
+Also welcome: Explorers: Students, researchers, and business and policy leaders who want to understand how physical intelligence works, where it creates value, and where it should not be used, without first becoming robotics specialists.
+
+This course is not for: People seeking a robotics engineering credential, a robot-programming bootcamp, or a condensed product-management textbook. It teaches judgment about physical systems, not how to build a robot from first principles.
+
+How to choose your pathway: The core pathway requires no advanced mathematics, coding, or robot hardware. It uses cases, simulation walkthroughs, failure analyses, and decision exercises. Optional technical extensions add greater depth for learners who want it, for example in perception, learning, control, and evaluation, without changing what the core pathway requires.
 
 ## How to learn
 
