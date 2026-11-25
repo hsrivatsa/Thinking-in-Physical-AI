@@ -53,7 +53,7 @@ Primary (Deciders): Product builders, founders, and operators who must choose wh
 
 Collaborators ( Builders alongside deciders): Engineers, designers, and AI and software professionals who design, build, evaluate, or operate intelligent physical systems and need a shared language for tradeoffs across body, intelligence, environment, people, workflow, service, and economics.
 
-Also welcome: Explorers: Students, researchers, and business and policy leaders who want to understand how physical intelligence works, where it creates value, and where it should not be used, without first becoming robotics specialists.
+Also welcome (Explorers): Students, researchers, and business and policy leaders who want to understand how physical intelligence works, where it creates value, and where it should not be used, without first becoming robotics specialists.
 
 This course is not for: People seeking a robotics engineering credential, a robot-programming bootcamp, or a condensed product-management textbook. It teaches judgment about physical systems, not how to build a robot from first principles.
 
