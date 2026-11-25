@@ -1,6 +1,8 @@
 # Thinking in Physical AI
 
 ### From Machine Intelligence to Meaningful Physical Work
+<img width="1056" height="979" alt="image" src="https://github.com/user-attachments/assets/98cd042b-72cd-4be3-911d-6a5d741b61ad" />
+
 
 **Course shell v0.1.0 · Curriculum outlined · Lessons and laboratories under development**
 
